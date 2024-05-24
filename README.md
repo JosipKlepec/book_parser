@@ -34,18 +34,18 @@ After installing Ruby, you can install Minitest using the following command in t
 gem install minitest
 ```
 
-# I git clone
+## I git clone
 
-## First, navigate to the directory where we want to clone the repository
+### First, navigate to the directory where we want to clone the repository
 cd ~/projects
 
-## Then, clone the repository
+### Then, clone the repository
 git clone https://github.com/JosipKlepec/book_parser.git
 
-## Go into the newly created repository directory
+### Go into the newly created repository directory
 cd example-repo
 
-### Running program
+## Running program
 
 After installing Minitest, you can run the program using the following command in the terminal:
 
